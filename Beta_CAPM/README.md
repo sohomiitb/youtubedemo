@@ -23,46 +23,44 @@ This project was built as part of my learning journey in portfolio management, i
 
 ## Finance Concepts Used
 
-### Portfolio Weight
+## Portfolio Weight
 
 The proportion of total portfolio value invested in each asset.
 
-[
+$$
 Weight_i = \frac{Investment_i}{Total\ Portfolio\ Value}
-]
+$$
 
-### Beta
+## Beta
 
 Beta measures how sensitive an asset is to movements in the overall market.
 
-* Beta = 1.0 → Moves with the market
-* Beta > 1.0 → More volatile than the market
-* Beta < 1.0 → Less volatile than the market
+- Beta = 1.0 → Moves with the market
+- Beta > 1.0 → More volatile than the market
+- Beta < 1.0 → Less volatile than the market
 
-### Portfolio Beta
+## Portfolio Beta
 
 Portfolio beta is the weighted average beta of all portfolio holdings.
 
-[
+$$
 Portfolio\ Beta = \sum (Weight_i \times Beta_i)
-]
+$$
 
-### CAPM
+## CAPM
 
 The Capital Asset Pricing Model estimates the expected return of a portfolio based on its market risk.
 
-[
+$$
 Expected\ Return = R_f + \beta_p (R_m - R_f)
-]
+$$
 
 Where:
 
-* (R_f) = Risk-Free Rate
-* (\beta_p) = Portfolio Beta
-* (R_m) = Expected Market Return
-
----
-
+- $R_f$ = Risk-Free Rate
+- $\beta_p$ = Portfolio Beta
+- $R_m$ = Expected Market Return
+  
 ## Example Inputs
 
 | Asset  | Beta |

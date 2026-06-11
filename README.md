@@ -1,6 +1,6 @@
 # 🎥 YouTube Demo Scripts Repository
 
-# 📊 Data Science & Finance Projects
+## 📊 Data Science & Finance Projects
 
 Welcome to my repository of Data Science, Analytics, AI, and Finance projects. This repository contains Python code, SQL scripts, Excel models, dashboards, financial analysis tools, machine learning projects, and educational resources developed for learning, research, and practical applications.
 
